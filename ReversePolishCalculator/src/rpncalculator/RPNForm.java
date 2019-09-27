@@ -16,7 +16,8 @@ import java.util.Scanner;
 import javax.swing.*;
 /**
  * GUI for Reverse Polish Notation Calculator
- * @author Paul Bladek
+ * @author Paul Bladek (GUI)
+ * @author Nasser Najib (Function)
  */
 public class RPNForm extends JFrame
 {
